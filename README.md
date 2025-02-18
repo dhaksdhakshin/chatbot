@@ -38,13 +38,6 @@ venv\Scripts\activate     # On Windows
 pip install -r requirements.txt
 ```
 
-### 4. Set Up API Key
-Replace `YOUR_API_KEY_HERE` in `main.py` with your actual Google API key. If you don’t have one, obtain it from the [Google AI Studio](https://aistudio.google.com/).
-
-```python
-api_key = "YOUR_API_KEY_HERE"
-```
-
 ## Running the Chatbot
 Once everything is set up, start the chatbot with:
 ```bash
