@@ -67,7 +67,7 @@ To improve the chatbot’s appearance, modify the `st.markdown()` and `st.write(
 Feel free to submit pull requests or report issues to improve this project!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License...
 
 ---
 Happy coding!
