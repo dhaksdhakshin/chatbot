@@ -43,7 +43,7 @@ Once everything is set up, start the chatbot with:
 ```bash
 streamlit run main.py
 ```
-This will open a Streamlit web app in your browser.
+This will open a Streamlit web app in your browser .
 
 ## Troubleshooting
 ### Streamlit Not Found
