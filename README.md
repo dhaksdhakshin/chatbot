@@ -64,7 +64,7 @@ pip install -r requirements.txt
 To improve the chatbot’s appearance, modify the `st.markdown()` and `st.write()` elements in `main.py`. You can also use **Streamlit themes** or **CSS** for styling.
 
 ## Contributing
-Feel free to submit pull requests or report issues to improve this project!
+Feel free to submit pull requests or report issues to improve this project !
 
 ## License
 This project is licensed under the MIT License.
