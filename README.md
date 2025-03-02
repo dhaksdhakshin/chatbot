@@ -1,6 +1,6 @@
 # Streamlit Chatbot with Gemini Pro & Vision API
 
-This is a chatbot built using Streamlit and Google's Gemini Pro API, including Vision API for handling images. The chatbot provides intelligent responses and can process both text and images.
+This is a chatbot built using Streamlit and Google's Gemini Pro API, including Vision API for handling images. The chatbot provides intelligent responses and can process both text and images .
 
 ## Features
 - Interactive chatbot powered by **Gemini Pro**
