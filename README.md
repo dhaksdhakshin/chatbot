@@ -47,7 +47,7 @@ This will open a Streamlit web app in your browser.
 
 ## Troubleshooting
 ### Streamlit Not Found
-If you get an error like `streamlit: command not found`, add the following path to your system’s **Environment Variables** :
+If you get an error like `streamlit: command not found`, add the following path to your system’s **Environment Variables**:
 ```
 C:\Users\YourUsername\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts
 ```
