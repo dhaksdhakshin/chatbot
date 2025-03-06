@@ -17,7 +17,7 @@ ChatBot/
 ```
 
 ## Prerequisites
-Make sure you have Python **3.8+** installed. If not, download it from [python.org](https://www.python.org/downloads/) .
+Make sure you have Python **3.8+** installed. If not, download it from [python.org](https://www.python.org/downloads/).
 
 ## Installation
 ### 1. Clone the Repository
