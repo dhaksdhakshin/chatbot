@@ -70,5 +70,5 @@ Feel free to submit pull requests or report issues to improve this project!
 This project is licensed under the MIT License.
 
 ---
-Happy coding !
+Happy coding!
 
