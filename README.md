@@ -6,7 +6,7 @@ This is a chatbot built using Streamlit and Google's Gemini Pro API, including V
 - Interactive chatbot powered by **Gemini Pro**
 - Supports text-based conversations
 - Streamlit-based UI for a user-friendly experience
-- Customizable UI with a sleek modern look
+- Customizable UI with a sleek modern look.
 
 ## File Structure
 ```
