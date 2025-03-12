@@ -22,7 +22,7 @@ input[type="text"] {
     font-size: 1.2em;
     border-radius: 5px;
     border: 2px solid #ddd;
-    margin-top: 20px;
+    margin-top: 20px; 
     margin-bottom: 10px;
     background-color: #fff;
 }
