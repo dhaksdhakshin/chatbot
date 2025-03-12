@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 from time import sleep
 
-# Input your API key here (keep it secure in a real project)
+# Input your API key here (keep it secure in a real project) 
 api_key = "YOUR_API_KEY_HERE"
 
 # Configure the Gemini Pro API with the API key
