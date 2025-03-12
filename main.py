@@ -10,7 +10,7 @@ genai.configure(api_key=api_key)
 
 # Set up generation configuration for the model
 generation_config = {
-    "temperature": 1, 
+    "temperature": 1,  
     "top_p": 0.95,
     "top_k": 40,
     "max_output_tokens": 8192,
