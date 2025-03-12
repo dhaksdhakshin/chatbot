@@ -11,7 +11,7 @@ This is a chatbot built using Streamlit and Google's Gemini Pro API, including V
 ## File Structure
 ```
 ChatBot/
-│── main.py                # Main script for running the chatbot
+│── main.py                # Main script for running the chatbot 
 │── requirements.txt       # Dependencies
 │── README.md              # Documentation
 ```
