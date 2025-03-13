@@ -47,7 +47,7 @@ user_input = st.text_input("Enter your message:", "")
 # Display response on button click
 if st.button("Send Message"):
     if user_input:
-        # Add user input to chat history
+        # Add user input to chat history 
         st.session_state.chat_history.append({'role': 'user', 'text': user_input})
 
         # Simulate chatbot response
