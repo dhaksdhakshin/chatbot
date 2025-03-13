@@ -7,7 +7,7 @@ api_key = "YOUR_API_KEY_HERE"
  
 # Configure the Gemini Pro API with the API key
 genai.configure(api_key=api_key)  
- 
+
 # Set up generation configuration for the model 
 generation_config = {
     "temperature": 1,  
