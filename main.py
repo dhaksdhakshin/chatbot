@@ -9,7 +9,7 @@ api_key = "YOUR_API_KEY_HERE"
 genai.configure(api_key=api_key)  
  
 # Set up generation configuration for the model  
-generation_config = {
+generation_config = { 
     "temperature": 1,  
     "top_p": 0.95,
     "top_k": 40,  
