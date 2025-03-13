@@ -15,7 +15,7 @@ generation_config = {
     "top_k": 40,  
     "max_output_tokens": 8192,
     "response_mime_type": "text/plain", 
-} 
+}  
 
 # Initialize the model (make sure this model name is available in the API)
 model_name = "gemini-1.5-flash"  # Replace with your specific model name
