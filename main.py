@@ -19,7 +19,7 @@ generation_config = {
 
 # Initialize the model (make sure this model name is available in the API)
 model_name = "gemini-1.5-flash"  # Replace with your specific model name
-
+ 
 # Load custom CSS for styling
 st.markdown('<style>' + open('style.css').read() + '</style>', unsafe_allow_html=True)
 
